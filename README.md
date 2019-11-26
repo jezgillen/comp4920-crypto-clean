@@ -4,6 +4,20 @@ Web app for analysing and visualising the performance of simple trading algorith
 
 
 
+## Authors
+
+* [wandy0394](https://github.com/wandy0394)
+
+* [mehri-amin](https://github.com/mehri-amin)
+
+* [JulianJankowski](https://github.com/JulianJankowski)
+
+* [HarryW102](https://github.com/HarryW102)
+
+* [jezgillen](https://github.com/jezgillen)
+
+
+
 ## Linux & macOS
 
 To install requirements, run 
