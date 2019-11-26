@@ -1,0 +1,7 @@
+ setuptools
+ plotly
+ PyQt5
+ PyQtWebEngine
+ qdarkstyle
+ pandas
+
