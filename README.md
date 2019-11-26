@@ -1,6 +1,6 @@
 # Coinye
 
-Web app for analysing and visualising the performance of simple trading algorithms.
+Desktop app for analysing and visualising the performance of simple trading algorithms.
 
 
 
